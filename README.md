@@ -1,9 +1,3 @@
-# aula
-landing page feita em html e css
+## aula
 
-
-
-## Tema 1
-
-
-## Tema 2
+Landing page feita em html e css
